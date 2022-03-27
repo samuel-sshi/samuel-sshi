@@ -1,6 +1,6 @@
-### Hi there 👋, Samuel Christopher
+### Hi there 👋, I'm Samuel Christopher
 #### University Student
-My name is Samuel Christopher, I'm from Indonesia. I'm a Mobile Application and Technology major in Bina Nusantara University, currently I'm in my second year of university.
+My name is Samuel Christopher, I'm from Indonesia. I'm a Mobile Application and Technology major in University of Bina Nusantara, currently I'm in my second year of university.
 
 ## Skills and Experience
 * C
