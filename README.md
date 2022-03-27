@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+My name is Samuel Christopher, I'm from Indonesia. I'm a Mobile Application and Technology major in Bina Nusantara University, currently I'm in my second year of university.
 <!--
 **samuel-sshi/samuel-sshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
