@@ -1,5 +1,21 @@
-### Hi there 👋
+### Hi there 👋, Samuel Christopher
+#### University Student
 My name is Samuel Christopher, I'm from Indonesia. I'm a Mobile Application and Technology major in Bina Nusantara University, currently I'm in my second year of university.
+
+## Skills and Experience
+* C
+* Figma
+* Python
+* HTML5
+* CSS3
+* JS
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/samuel-sshi)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/samuelchristopher03/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/samuel_sshi/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg' alt='YouTube' height='40'>](https://www.youtube.com/channel/UCDpQZSks1LkBahhI-eI4j3Q)  
+
+
+
+
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=samuel-sshi)](https://github.com/anuraghazra/github-readme-stats)
 
