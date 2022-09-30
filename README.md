@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=samuel-sshi&label=Profile%20views&color=0e75b6&style=flat" alt="samuel-sshi" /> </p>
 
-- 🌱 I’m currently learning **UI/UX, Bootstrap, Python, Javascript**
+- 🌱 I’m currently learning **UI/UX, Bootstrap, Python, Javascript, Swift, Unity, and Android Development**
 
 - 📫 How to reach me **samuelchris12350@gmail.com**
 
