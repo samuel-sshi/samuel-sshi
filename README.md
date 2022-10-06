@@ -13,7 +13,7 @@
 
 - ⚡ Fun fact **I memorized 195 countries and its flags :)**
 
-- UI/UX Portfolio [Here](https://dribbble.com/samuel_sshi)
+- UI/UX Portfolio [Click Here](https://dribbble.com/samuel_sshi)
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
