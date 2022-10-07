@@ -1,6 +1,6 @@
 <!-- [![MasterHead](https://camo.githubusercontent.com/0a9108cfcbe39b4394f02381a7832bed5d7a33b334e0d6d336e638fbdcf19069/68747470733a2f2f6d79776562323030322e77337370616365732e636f6d2f4e65772d504e432d416e696d617465642d42616e6e6572732e676966)](https://rishavchanda.io) -->
 
-<img width="1440" alt="Desktop - 1" src="https://user-images.githubusercontent.com/94049575/194307841-e955d8eb-e910-4997-a639-50c1a7323666.png">
+![Samuel Christopher](https://user-images.githubusercontent.com/94049575/194514226-d5dde70a-d058-4716-9583-76568595cd79.png)
 
 <h1 align="center">Hi 👋, I'm Samuel Christopher</h1>
 <h3 align="center">I'm a Mobile Application and Technology major in University of Bina Nusantara, currently I'm in my third year of university.</h3>
