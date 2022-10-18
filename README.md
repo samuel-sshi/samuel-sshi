@@ -15,7 +15,9 @@
 
 - ⚡ Fun fact **I produced a lofi song [Listen Here!](https://open.spotify.com/track/4AgraPJCqje0Z0Ag8Oav4B?si=0295d52eb00e442d)**
 
-- UI/UX Portfolio [Click Here](https://dribbble.com/samuel_sshi)
+- 🧾 CV (Will be uploaded soon!)
+
+- 📱 UI/UX Portfolio [Click Here](https://dribbble.com/samuel_sshi)
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
