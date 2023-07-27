@@ -17,7 +17,7 @@
 
 - 🧾 CV (Will be uploaded soon!)
 
-- 📱 UI/UX Portfolio [Click Here](https://dribbble.com/samuel_sshi)
+- 📱 UI/UX Portfolio [Click Here](https://drive.google.com/file/d/13p8DAelsAibtzk71BT3Mn9dA8UNpQJSS/view?usp=sharing)
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
