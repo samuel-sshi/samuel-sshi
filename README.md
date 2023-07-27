@@ -17,7 +17,7 @@
 
 - 🧾 CV [Click Here](https://dropover.cloud/a7c98a)
 
-- 📱 UI/UX Portfolio (Will be uploaded soon)<!--[Click Here](https://drive.google.com/file/d/13p8DAelsAibtzk71BT3Mn9dA8UNpQJSS/view?usp=sharing)-->
+- 📱 UI/UX Portfolio [Click Here](https://drive.google.com/file/d/1clMpkkX0jE5Qd0qb8xDiA-moWvMvnjbl/view?usp=sharing)
 
 <h3 align="left">🌐 Connect with me:</h3>
 <p align="left">
