@@ -3,7 +3,7 @@
 ![Samuel Christopher](https://user-images.githubusercontent.com/94049575/194514226-d5dde70a-d058-4716-9583-76568595cd79.png)
 
 <h1 align="center">Hi 👋, I'm Samuel Christopher</h1>
-<h3 align="center">I'm a Mobile Application and Technology major at the University of Bina Nusantara. Currently, I'm in my third year of university.</h3>
+<h3 align="center">I'm a Mobile Application and Technology fresh graduate from the University of Bina Nusantara</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b7611ec0e4235d23ba8736b8575c2d3357953fea86f58&rid=giphy.gif&ct=g">
 
