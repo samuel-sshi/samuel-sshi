@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Solidity, Smart Contract Development, Blockchain Development, Javascript**
 
-- 📫 How to reach me **samuelchris12350@gmail.com**
+- 📫 How to reach me **samuelchristopherhs@gmail.com**
 
 - ⚡ Fun fact **I produced a lofi song [Listen Here!](https://open.spotify.com/track/4AgraPJCqje0Z0Ag8Oav4B?si=0295d52eb00e442d)**
 
