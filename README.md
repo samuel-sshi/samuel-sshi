@@ -15,8 +15,6 @@
 
 - ⚡ Fun fact **I produced a lofi song [Listen Here!](https://open.spotify.com/track/4AgraPJCqje0Z0Ag8Oav4B?si=0295d52eb00e442d)**
 
-- 🧾 CV [Click Here](https://dropover.cloud/a7c98a)
-
 - 📱 UI/UX Portfolio [Click Here](https://drive.google.com/file/d/1clMpkkX0jE5Qd0qb8xDiA-moWvMvnjbl/view?usp=sharing)
 
 <h3 align="left">🌐 Connect with me:</h3>
